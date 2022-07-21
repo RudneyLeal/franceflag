@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    background-image: url(http://source.unsplash.com/random);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+ul, ol, li {
+    list-style: none;
+}

@@ -1,0 +1,30 @@
+.exemple {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 3px solid black;
+    width: 390px;
+}
+
+.exemple-item {
+    display: inline-block;
+    background-color: aqua;
+    margin-right: -4px;
+    width: 130px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+}
+
+.exemple-item_um {
+    background-color: blue;
+}
+
+.exemple-item_dois {
+    background-color: white;
+}
+
+.exemple-item_tres {
+    background-color: red;
+}
